@@ -1,0 +1,2 @@
+- Simply put, an algorithm is a finite series of steps that help solve a problem – and it’s a technique we use all the time: a recipe can be thought of as an algorithm
+- 
