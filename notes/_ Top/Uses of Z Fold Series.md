@@ -1,0 +1,2 @@
+- [ ] icloud alternative to sync between mac and Z Fold Series Phones
+- [ ] 

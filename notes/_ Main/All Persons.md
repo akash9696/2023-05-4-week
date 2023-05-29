@@ -1,0 +1,7 @@
+
+
+```dataview
+table
+from #person
+```
+
